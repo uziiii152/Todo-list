@@ -1,0 +1,36 @@
+body{
+    background: #131212;
+
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+#taskManager{
+    background: #1f1f1f;
+    color: rgb(255, 241, 241);
+     box-shadow: 1px 1px 1px 1px;
+     padding: 20px;
+     margin: 100px;
+     border-radius: 10px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+input{
+    margin: 10px;
+    padding: -5px;
+}
+
+button{
+    background: green;
+    color: aliceblue;
+    border-radius: 2px;
+    
+}
+
+ul{
+    list-style-type: none;
+margin-top: 5px ;
+}
